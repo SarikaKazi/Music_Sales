@@ -1,5 +1,5 @@
 # Music_Sales [In Progress]
-Analysis of music sales for a digital media store.
+Dataquest Project: Analysis of music sales for a digital media store.
 
 [Original Chinook Database Repo](https://github.com/lerocha/chinook-database)
 The Chinook database contains information about the artists, songs, and albums from the music shop, as well as information on the shop's employees, customers, and the customers purchases.
